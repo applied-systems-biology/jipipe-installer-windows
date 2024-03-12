@@ -1,3 +1,5 @@
+using System.Reflection;
+
 namespace JIPipeInstaller
 {
     internal static class Program
